@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+.vsconfig
+
+# Unity
+/Library/
+/Temp/
+/UserSettings/
+/Logs/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
